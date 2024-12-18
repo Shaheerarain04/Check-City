@@ -1,0 +1,29 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(3, 114, 120);
+    color: white;
+    font: weight 60px;;
+    font-size: 20px;
+}
+h2{
+    color:rgb(181, 217, 190);
+}
+
+#userCityName{
+    width: 150px;
+    height: 20px;
+}
+
+#btn{
+    width: 100px;
+    height: 25px;
+    color: rgb(255, 254, 250);
+    background-color: rgb(220, 183, 117);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+#btn:hover{
+background-color: rgb(10, 176, 101);
+color: black;
+transition: 0.2s ease-in-out;
+}
